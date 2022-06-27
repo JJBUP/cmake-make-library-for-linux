@@ -1,4 +1,4 @@
-# cmake-make-library-for-windows
+# cmake-make-library-for-Linux
 在windows 使用Clion下生成动态库和静态库的demo
 
 **windows下动态库与静态库区别**
