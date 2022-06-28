@@ -32,4 +32,4 @@ linux windows 的shared_lib.lib static_lib.lib /libshared_lib.a libstatic_lib.so
 
 windows下 dll文件需要放在window dll的寻找目录下 
 
-(越说越废话了...)
+(越说越废话了......)
